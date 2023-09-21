@@ -1,1 +1,1 @@
-# simple0github-action
+# simplegithub-action
